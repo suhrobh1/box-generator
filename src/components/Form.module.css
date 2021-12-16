@@ -1,0 +1,26 @@
+.mainDiv{
+    margin: 1.5em auto;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .inputAndLabel{
+    display: flex;
+    justify-content: space-between;
+    margin: 0.5em;
+  }
+  
+  .form{
+    width: 400px;
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .label{
+    margin-right: 1.1em;
+  }
+  
+  .inputButton{
+    height: 3em;
+    align-self: center;
+  }
